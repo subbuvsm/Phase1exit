@@ -42,8 +42,7 @@ public class search {
     	}
 		
     	driver.close();
-		
-		
+				
 		
 	}
 }
